@@ -22,5 +22,5 @@ h4 {color:#ffffff; font-size:22px; line-height:26px; font-weight:normal; margin:
 #simplemodal-container .simplemodal-data {padding:8px;}
 #simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#FFFFFF; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
 #simplemodal-container a {color:#ddd;}
-#simplemodal-container a.modalCloseImg {background:url(image/x.png) no-repeat; background-size: 30px 30px;width:30px; height:30px; display:inline; z-index:3200; position:absolute; top:-15px; right:-15px; cursor:pointer;}
+#simplemodal-container a.modalCloseImg {background:url(../image/x.png) no-repeat; background-size: 30px 30px;width:30px; height:30px; display:inline; z-index:3200; position:absolute; top:-15px; right:-15px; cursor:pointer;}
 #simplemodal-container h3 {color:#FFFFFF;}
